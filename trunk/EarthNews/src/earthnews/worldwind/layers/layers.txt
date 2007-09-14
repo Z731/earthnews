@@ -1,0 +1,4 @@
+http://worldkit.org/wmstimenav/
+
+Name:  	 JPL Blue Marble (WMS)
+Url monitored: 	http://wms.jpl.nasa.gov/wms.cgi?
